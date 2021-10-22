@@ -1,0 +1,17 @@
+.box {
+ min-height: 200px;
+ background-color: rgb(245, 192, 203);
+ border: 1px solid black;
+ padding: 5px;
+}
+
+.name-col {
+ text-align: center;
+ line-height: 200px;
+}
+
+.box-nested {
+ min-height: 200px;
+ background-color: rgb(238, 127, 128);
+ border: 1px solid white;
+}
